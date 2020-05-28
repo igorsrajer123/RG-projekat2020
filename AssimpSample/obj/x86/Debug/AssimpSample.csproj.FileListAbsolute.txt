@@ -1,0 +1,22 @@
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\3D Models\Touareg\Touareg.3DS
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csprojResolveAssemblyReference.cache
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.Cache
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\asd\Desktop\FAX\Cetvrta godina\Racunarska grafika\AssimpSample\AssimpSample\obj\x86\Debug\AssimpSample.pdb

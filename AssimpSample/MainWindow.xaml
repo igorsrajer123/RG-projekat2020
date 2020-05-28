@@ -1,0 +1,30 @@
+﻿<Window x:Class="AssimpSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SharpGL WPF Application" Height="578" Width="1094.333" 
+        xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF" KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="267*"/>
+            <ColumnDefinition Width="250*"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel Grid.ColumnSpan="2">
+            <ToolBarTray DockPanel.Dock="Top">
+                <ToolBar HorizontalAlignment="Center" VerticalAlignment="Center">
+
+                    <Label Content="Izbor visine osobe:" VerticalContentAlignment="Center" Width="113"></Label>
+                    <TextBox Name="visina" Margin="10" Height="27" TextWrapping="Wrap" BorderThickness="2" BorderBrush="Yellow" VerticalContentAlignment="Center" VerticalAlignment="Top" Width="89" PreviewTextInput="visina_PreviewTextInput"/>
+                    <Label Content="Izbor brzine stepenica: " VerticalContentAlignment="Center" Width="126"></Label>
+                    <TextBox Name="brzina" Margin="10" Height="27" TextWrapping="Wrap" BorderThickness="2" BorderBrush="Green" VerticalContentAlignment="Center" VerticalAlignment="Top" Width="89" PreviewTextInput="brzina_PreviewTextInput"/>
+                    <Label Content="Izbor ambijentalne svetlosne komponente:" VerticalContentAlignment="Center" Width="236"></Label>
+                    <Label Name ="lbl" VerticalContentAlignment="Center" Width="236" FontWeight="Bold"></Label>
+                </ToolBar>
+            </ToolBarTray>
+            <!-- The OpenGL control provides a OpenGL drawing surface. -->
+            <sharpGL:OpenGLControl 
+            Name="openGLControl" OpenGLDraw="openGLControl_OpenGLDraw" 
+            OpenGLInitialized="openGLControl_OpenGLInitialized" Resized="openGLControl_Resized"
+            DrawFPS="True" RenderContextType="FBO" FrameRate="10"/>
+        </DockPanel>
+    </Grid>
+</Window>
